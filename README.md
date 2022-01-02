@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  
-</p>
+</br>
 <!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
 <h3><b>🛠 Lucy's Tech Stack 🛠</b></h3>
 </br>
