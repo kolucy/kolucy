@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p></p>
 <!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
-<h3><b>🛠 Tech Stack 🛠</b></h3>
+<h3><b>🛠 Lucy's Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
