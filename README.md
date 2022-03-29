@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
+<!-- <p align="center"> -->
+<p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp -->
