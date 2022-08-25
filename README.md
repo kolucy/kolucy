@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
                                                                                                              
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolucy&show_icons=true&theme=vue) -->
+                                                                                                             
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolucy&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolucy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
